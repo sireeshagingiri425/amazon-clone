@@ -83,6 +83,7 @@ header a{
     grid-column-gap:20px;
     grid-row-gap:20px;
     margin-top:10px;
+    background-color: white;
     
    }
    h3{
@@ -97,7 +98,7 @@ header a{
    .smart_gadgets{
     
     box-shadow: 2px 2px 4px;
-    border:solid 2px blue;
+    /* border:solid 2px blue; */
     width:290px;
     }
    
